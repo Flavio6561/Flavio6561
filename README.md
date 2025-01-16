@@ -6,6 +6,6 @@
 ### Other:
 > - [libinput-DoubleClick-Fix](https://github.com/Flavio6561/libinput-DoubleClick-Fix): A script that removes double click delay/ghosting in distros using libinput  
 ### Links:  
-> - [Modrinth profile page](https://modrinth.com/user/flaviosessantacinquesessantuno)  
+> - [Modrinth profile page](https://modrinth.com/user/Flavio6561)  
 > - [Github](https://github.com/Flavio6561)  
 > - [Discord](https://discordapp.com/users/715189608085716992)  
