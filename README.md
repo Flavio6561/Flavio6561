@@ -1,6 +1,6 @@
 ### Minecraft projects:  
 > - [FPShud](https://github.com/Flavio6561/FPShud): Minecraft Fabric mod that displays FPS with high precision on a customizable HUD [`Modrinth page`](https://modrinth.com/mod/fpshud)  
-> - [SOCD](https://github.com/Flavio6561/SOCD): Minecraft Fabric mod that implements SOCD for movement and strafe keys [`Modrinth page (soon)`](https://modrinth.com/mod/socd)  
+> - [SOCD](https://github.com/Flavio6561/SOCD): Minecraft Fabric mod that implements SOCD for movement and strafe keys [`Modrinth page`](https://modrinth.com/mod/socd)  
 > - [LightningDeath](https://github.com/Flavio6561/LightningDeath): Minecraft Fabric mod that spawns a lightning bolt on a player death position [`Modrinth page`](https://modrinth.com/mod/lightningdeath)  
 > - [BindQuit](https://github.com/Flavio6561/BindQuit): Minecraft Fabric mod that disconnects you with the press of a button [`Modrinth page`](https://modrinth.com/mod/bindquit)  
 > - [Better Fabric Performance](https://github.com/Flavio6561/Better-Fabric-Performance): Minecraft Fabric modpack focused on pure performace [`Modrinth page`](https://modrinth.com/modpack/better-fabric-performance)  
