@@ -1,5 +1,5 @@
 ### Minecraft projects:  
-> - [Tiers](https://github.com/Flavio6561/Tiers): Minecraft Fabric mod that displays tiers from mctiers.com, mctiers.io and subtiers.net [`Modrinth page`](https://modrinth.com/mod/tiers)  
+> - [Tiers](https://github.com/Flavio6561/Tiers): Minecraft Fabric mod that displays tiers from MCTiers, PvPTiers and Subtiers [`Modrinth page`](https://modrinth.com/mod/tiers)  
 > - [FPShud](https://github.com/Flavio6561/FPShud): Minecraft Fabric mod that displays FPS with high precision on a customizable HUD [`Modrinth page`](https://modrinth.com/mod/fpshud)  
 > - [LightningDeath](https://github.com/Flavio6561/LightningDeath): Minecraft Fabric mod that spawns a lightning bolt on a player death position [`Modrinth page`](https://modrinth.com/mod/lightningdeath)  
 > - [SOCD](https://github.com/Flavio6561/SOCD): Minecraft Fabric mod that implements SOCD / Snappy Tappy / Snap Tap / Null Bind for movement keys [`Modrinth page`](https://modrinth.com/mod/socd)  
