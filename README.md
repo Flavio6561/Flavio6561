@@ -5,8 +5,9 @@
 > - [BindQuit](https://github.com/Flavio6561/BindQuit): Minecraft Fabric mod that disconnects you with the press of a button [`Modrinth page`](https://modrinth.com/mod/bindquit)  
 > - [SOCD](https://github.com/Flavio6561/SOCD)*: Minecraft Fabric mod that implements SOCD / Snappy Tappy / Snap Tap for movement keys [`Modrinth page`](https://modrinth.com/mod/socd)  
 > - Better Fabric Performance*: Minecraft Fabric modpack focused on pure performace [`Modrinth page`](https://modrinth.com/modpack/better-fabric-performance)  
-### Other:  
+### Others:  
 > - [libinput-DoubleClick-Fix](https://gist.github.com/Flavio6561/0b1282f81794b4c3073997ca9e53ee27): Script that removes the default double click ghosting / delay in libinput  
+> - [Talaria](https://github.com/Flavio6561/Talaria): Rider Delivery School Project  
 ### Links:  
 > - [Modrinth](https://modrinth.com/user/Flavio6561)  
 > - [Discord](https://discordapp.com/users/715189608085716992)  
